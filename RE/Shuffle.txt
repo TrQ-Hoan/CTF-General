@@ -1,1 +1,2 @@
 Chủ yếu là đọc code thôi. Source: https://adworld.xctf.org.cn/task/answer?type=reverse&number=4&grade=1&id=4942&page=1
+Flag: pl4y1ng5huffl3_5ur3ly_n33d5_l075_0f_luck
