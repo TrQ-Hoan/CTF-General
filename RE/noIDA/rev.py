@@ -41,8 +41,6 @@ def punish():
     while True:
         time.sleep(.1)
         webbrowser.open("https://www.youtube.com/watch?v=uKxyLmbOc0Q")
-
-
 def main():
     sik1 = prompt()
     sik = obfuscate(sik1)
